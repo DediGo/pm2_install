@@ -8,3 +8,4 @@ apt install build-essential
 rm ./nodesource_setup.sh
 echo "NodeJS à bien été installé"
 npm i pm2 -g
+echo "PM2 à bien été installé"
